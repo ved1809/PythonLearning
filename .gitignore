@@ -1,0 +1,9 @@
+# Ignore virtual environment and compiled Python files
+venv/
+env/
+env1/
+env2/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
